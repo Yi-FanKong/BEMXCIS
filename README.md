@@ -1,5 +1,3 @@
-# BEMXCIS
-An Efficient Bayesian Method for Estimating the Degree of the Skewness of X Chromosome Inactivation Based on the Mixture of General Pedigrees and Unrelated Females
 ##The version of R needs to be 4.1.2 or later.
 
 ##Rtools needs to be downloaded and installed in advance.
